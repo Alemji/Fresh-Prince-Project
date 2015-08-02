@@ -1,0 +1,32 @@
+h1 {
+	color: white;
+	text-align: center;
+	background-color: #98829F;
+	font-family:tahoma; 
+	font-style: normal;
+}
+body {
+	color: white;
+	background:#98829F;
+	text-align: center;
+	font-family: tahoma;
+	font-style:italic;
+}
+h4 {
+	color:white;
+	text-align: left;
+	font-style: normal;
+	margin: 0;
+	text-decoration: underline;
+}
+ul {
+	display: inline;
+	text-align: left;
+	list-style: none;
+	padding: 0;
+	
+}
+a {
+	color: white;
+	text-shadow: 2px 2px 5px #6A5B6F, 0 0 25px blue, 0 0 5px white;
+}
